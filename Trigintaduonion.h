@@ -5,7 +5,7 @@
  * Date:    2008/03/03
  *
  * Copyright (c) 2006-2008 by Douglas Wilhelm Harder.
- * All rights reserved.
+ * All rights reserved.. 
  ******************************************/
 
 #ifndef CA_UWATERLOO_ALUMNI_DWHARDER_TRIGINTADUONION
